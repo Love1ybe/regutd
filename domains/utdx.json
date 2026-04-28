@@ -1,0 +1,6 @@
+{
+  "domain": "is-cool.dev",
+  "subdomain": "utdx",
+  "record": { "A": ["62.60.229.135"] },
+  "proxied": false
+}
